@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/playground-jmol/badge/?version=latest)](https://playground-jmol.readthedocs.io/en/latest/?badge=latest)
+
 # Deep playground
 
 Deep playground is an interactive visualization of neural networks, written in
