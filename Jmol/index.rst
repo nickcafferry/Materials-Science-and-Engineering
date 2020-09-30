@@ -31,6 +31,8 @@ all rights reserved.
 
 .. |bamboo| unicode:: 0x1F024 .. bamboo
 
+Book
+=====
 
 .. toctree:: 
    :maxdept: 5
