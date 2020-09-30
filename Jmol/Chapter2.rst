@@ -1,4 +1,4 @@
-Chapter2: Atomic Structure and Interatomic Bonding
+Chapter 2: Atomic Structure and Interatomic Bonding
 ======================
 
 .. raw:: html
