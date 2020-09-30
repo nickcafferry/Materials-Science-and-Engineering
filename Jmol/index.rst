@@ -42,126 +42,126 @@ Book
 
 .. toctree:: 
    :maxdepth: 5
-   :caption: Chapter 1: Introduction
+   :caption: 
    
    Chapter1
 
 .. toctree:: 
    :maxdepth: 5
-   :caption: Chapter 2: Atomics Structure And Interatomic Bonding
+   :caption:
    
    Chapter2
 
 .. toctree:: 
    :maxdepth: 5
-   :caption: Chapter 3: Structures of Metals and Ceramics
+   :caption: 
    
    Chapter3
 
 .. toctree:: 
    :maxdepth: 5
-   :caption: Chapter 4: Ploymer Sturctures
+   :caption: 
    
    Chapter4
    
 .. toctree:: 
    :maxdepth: 5
-   :caption: Chapter 5: Imperfections in Solids
+   :caption: 
    
    Chapter5
    
 .. toctree:: 
    :maxdepth: 5
-   :caption: Chapter 6: Diffusion
+   :caption: 
    
    Chapter6
    
 .. toctree:: 
    :maxdepth: 5
-   :caption: Chapter 7: Mechanical Properties
+   :caption: 
    
    Chapter7
 
 .. toctree:: 
    :maxdepth: 5
-   :caption: Chapter 8: Deformation And Strengthening
+   :caption: 
    
    Chapter8
    
 .. toctree:: 
    :maxdepth: 5
-   :caption: Chapter 9: Failure
+   :caption: 
    
    Chapter9
    
 .. toctree:: 
    :maxdepth: 5
-   :caption: Chapter 10: Phase Diagrams
+   :caption: 
    
    Chapter10
    
 .. toctree:: 
    :maxdepth: 5
-   :caption: Chapter 11: Phase Transformatics
+   :caption: 
    
    Chapter11
 
 .. toctree:: 
    :maxdepth: 5
-   :caption: Chapter 12: Electrical Properties
+   :caption: 
    
    Chapter12
 
 .. toctree:: 
    :maxdepth: 5
-   :caption: Chapter 13: Types and Applications of Materials
+   :caption: 
    
    Chapter13
    
 .. toctree:: 
    :maxdepth: 5
-   :caption: Chapter 14: Synthesis, Fabrication, And Processing of Materials
+   :caption: 
    
    Chapter14
 
 .. toctree:: 
    :maxdepth: 5
-   :caption: Chapter 15: Composites
+   :caption: 
    
    Chapter15
    
 .. toctree:: 
    :maxdepth: 5
-   :caption: Chapter 16: Corrosion And Degradations of Materials
+   :caption: 
    
    Chapter16
  
 .. toctree:: 
    :maxdepth: 5
-   :caption: Chapter 17: Thermal Propeties
+   :caption: 
    
    Chapter17
    
 .. toctree:: 
    :maxdepth: 5
-   :caption: Chapter 18: Magnetic Properties
+   :caption: 
    
    Chapter18
    
 .. toctree:: 
    :maxdepth: 5
-   :caption: Chapter 19: Optical Properties
+   :caption: 
    
    Chapter19
    
 .. toctree:: 
    :maxdepth: 5
-   :caption: Chapter 20: Economic, Environmental, And Societals Issues
+   :caption: 
    
    Chapter20
    
 .. toctree::
    :maxdepth: 5
-   :caption: Appendice
+   :caption: 
    
    appendix
