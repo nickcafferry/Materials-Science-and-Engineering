@@ -162,6 +162,6 @@ Book
    
 .. toctree::
    :maxdepth: 5
-   :caption: appendice
+   :caption: Appendice
    
    appendix
