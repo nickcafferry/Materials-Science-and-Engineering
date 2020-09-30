@@ -39,8 +39,6 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'remain']
 pygments_style = 'default'
 
 html_static_path = ['jmol-14.31.7']
-html_favicon = 'GCC.png'
-html_logo = 'GCC.png'
 html_theme = 'agogo'
 html_theme_options = {
     'footerbg ': '#FFFF93',
