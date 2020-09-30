@@ -1,5 +1,5 @@
 [![Documentation Status](https://readthedocs.org/projects/playground-jmol/badge/?version=latest)](https://playground-jmol.readthedocs.io/en/latest/?badge=latest)
-[![LICENCE](https://img.shields.io/github/license/nickcafferry/Materials-Science-and-Engineering?style=plastic)(https://github.com/nickcafferry/Materials-Science-and-Engineering/blob/master/LICENSE)]
+[![LICENCE](https://img.shields.io/github/license/nickcafferry/Materials-Science-and-Engineering?style=plastic)](https://github.com/nickcafferry/Materials-Science-and-Engineering/blob/master/LICENSE)
 
 # Deep playground
 
