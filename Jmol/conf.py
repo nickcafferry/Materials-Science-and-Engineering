@@ -4,8 +4,8 @@ import sys
 import os
 sys.path.insert(0, os.path.abspath("../../manim/"))
 
-project = u'Jmol'
-copyright = u'- Wei MEI (Nick Cafferry).'
+project = u'Materials Sciences and Engineering'
+copyright = u'- Wei MEI (Nick Cafferry)'
 author = u'Wei MEI'
 
 
@@ -39,12 +39,12 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'remain']
 pygments_style = 'default'
 
 html_static_path = ['jmol-14.31.7']
-html_theme = 'sphinx_rtd_theme'
 html_favicon = 'GCC.png'
 html_logo = 'GCC.png'
+html_theme = 'agogo'
 html_theme_options = {
-    'logo_only': False,
-    'style_nav_header_background': '#343131',
+    'footerbg ': '#FFFF93',
+    'headerbg': '#FF2D2D',
 }
 html_sidebars = {
    '**': ['globaltoc.html', 'sourcelink.html', 'searchbox.html'],
