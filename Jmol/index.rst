@@ -42,126 +42,126 @@ Book
 
 .. toctree:: 
    :maxdepth: 5
-   :caption: 
+   :caption: Chapter 1
    
    Chapter1
 
 .. toctree:: 
    :maxdepth: 5
-   :caption:
+   :caption: Chapter 2
    
    Chapter2
 
 .. toctree:: 
    :maxdepth: 5
-   :caption: 
+   :caption: Chapter 3
    
    Chapter3
 
 .. toctree:: 
    :maxdepth: 5
-   :caption: 
+   :caption: Chapter 4
    
    Chapter4
    
 .. toctree:: 
    :maxdepth: 5
-   :caption: 
+   :caption: Chapter 5
    
    Chapter5
    
 .. toctree:: 
    :maxdepth: 5
-   :caption: 
+   :caption: Chapter 6
    
    Chapter6
    
 .. toctree:: 
    :maxdepth: 5
-   :caption: 
+   :caption: Chapter 7
    
    Chapter7
 
 .. toctree:: 
    :maxdepth: 5
-   :caption: 
+   :caption: Chapter 8
    
    Chapter8
    
 .. toctree:: 
    :maxdepth: 5
-   :caption: 
+   :caption: Chapter 9
    
    Chapter9
    
 .. toctree:: 
    :maxdepth: 5
-   :caption: 
+   :caption: Chapter 10
    
    Chapter10
    
 .. toctree:: 
    :maxdepth: 5
-   :caption: 
+   :caption: Chapter 11
    
    Chapter11
 
 .. toctree:: 
    :maxdepth: 5
-   :caption: 
+   :caption: Chapter 12
    
    Chapter12
 
 .. toctree:: 
    :maxdepth: 5
-   :caption: 
+   :caption: Chapter 13
    
    Chapter13
    
 .. toctree:: 
    :maxdepth: 5
-   :caption: 
+   :caption: Chapter 14
    
    Chapter14
 
 .. toctree:: 
    :maxdepth: 5
-   :caption: 
+   :caption: Chapter 15
    
    Chapter15
    
 .. toctree:: 
    :maxdepth: 5
-   :caption: 
+   :caption: Chapter 16
    
    Chapter16
  
 .. toctree:: 
    :maxdepth: 5
-   :caption: 
+   :caption: Chapter 17
    
    Chapter17
    
 .. toctree:: 
    :maxdepth: 5
-   :caption: 
+   :caption: Chapter 18
    
    Chapter18
    
 .. toctree:: 
    :maxdepth: 5
-   :caption: 
+   :caption: Chapter 19
    
    Chapter19
    
 .. toctree:: 
    :maxdepth: 5
-   :caption: 
+   :caption: Chapter 20
    
    Chapter20
    
 .. toctree::
    :maxdepth: 5
-   :caption: 
+   :caption: appendice
    
    appendix
