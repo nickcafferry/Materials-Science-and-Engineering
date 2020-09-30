@@ -1,3 +1,6 @@
+Fundamentals of Materials Science and Engineering: An Intergrated Approach
+==========================================================================
+
 |Deployment Status|  |Apache License|  |Documentation Status|  |Python Online|  |Python version|  |--|  |today| 
 
 -------------------
@@ -27,3 +30,136 @@ all rights reserved.
    :trim:
 
 .. |bamboo| unicode:: 0x1F024 .. bamboo
+
+
+.. toctree:: 
+   :maxdept: 5
+   :caption: The Book
+   
+   bookinfo
+
+.. toctree:: 
+   :maxdept: 5
+   :caption: Chapter 1: Introduction
+   
+   Chapter1
+
+.. toctree:: 
+   :maxdept: 5
+   :caption: Chapter 2: Atomics Structure And Interatomic Bonding
+   
+   Chapter2
+
+.. toctree:: 
+   :maxdept: 5
+   :caption: Chapter 3: Structures of Metals and Ceramics
+   
+   Chapter3
+
+.. toctree:: 
+   :maxdept: 5
+   :caption: Chapter 4: Ploymer Sturctures
+   
+   Chapter4
+   
+.. toctree:: 
+   :maxdept: 5
+   :caption: Chapter 5: Imperfections in Solids
+   
+   Chapter5
+   
+.. toctree:: 
+   :maxdept: 5
+   :caption: Chapter 6: Diffusion
+   
+   Chapter6
+   
+.. toctree:: 
+   :maxdept: 5
+   :caption: Chapter 7: Mechanical Properties
+   
+   Chapter7
+
+.. toctree:: 
+   :maxdept: 5
+   :caption: Chapter 8: Deformation And Strengthening
+   
+   Chapter8
+   
+.. toctree:: 
+   :maxdept: 5
+   :caption: Chapter 9: Failure
+   
+   Chapter9
+   
+.. toctree:: 
+   :maxdept: 5
+   :caption: Chapter 10: Phase Diagrams
+   
+   Chapter10
+   
+.. toctree:: 
+   :maxdept: 5
+   :caption: Chapter 11: Phase Transformatics
+   
+   Chapter11
+
+.. toctree:: 
+   :maxdept: 5
+   :caption: Chapter 12: Electrical Properties
+   
+   Chapter12
+
+.. toctree:: 
+   :maxdept: 5
+   :caption: Chapter 13: Types and Applications of Materials
+   
+   Chapter13
+   
+.. toctree:: 
+   :maxdept: 5
+   :caption: Chapter 14: Synthesis, Fabrication, And Processing of Materials
+   
+   Chapter14
+
+.. toctree:: 
+   :maxdept: 5
+   :caption: Chapter 15: Composites
+   
+   Chapter15
+   
+.. toctree:: 
+   :maxdept: 5
+   :caption: Chapter 16: Corrosion And Degradations of Materials
+   
+   Chapter16
+ 
+.. toctree:: 
+   :maxdept: 5
+   :caption: Chapter 17: Thermal Propeties
+   
+   Chapter17
+   
+.. toctree:: 
+   :maxdept: 5
+   :caption: Chapter 18: Magnetic Properties
+   
+   Chapter18
+   
+.. toctree:: 
+   :maxdept: 5
+   :caption: Chapter 19: Optical Properties
+   
+   Chapter19
+   
+.. toctree:: 
+   :maxdept: 5
+   :caption: Chapter 20: Economic, Environmental, And Societals Issues
+   
+   Chapter20
+   
+.. toctree::
+   :maxdepth: 5
+   :caption: Appendice
+   
+   appendix
