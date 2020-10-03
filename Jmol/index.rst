@@ -165,3 +165,10 @@ Book
    :caption: Appendice
    
    appendix
+
+
+Comments
+=========
+
+.. raw:: html
+   :file: comments.html
