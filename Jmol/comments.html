@@ -1,0 +1,25 @@
+<body>
+    <div id="txt">
+    <textarea  id="text" value="" cols="80" rows="10"></textarea><br>
+       <button type="button" id="btn">Comments</button>
+       <div id="lis">
+         <ol id="text_li">
+         </ol>
+       </div>
+	<script type="text/javascript">
+             var tet= document.getElementById("text");
+             var butt= document.getElementById("btn");
+             var tet_li= document.getElementById("text_li");
+
+       butt.onclick=function msg(){
+       var Li= document.createElement("li");
+       Li.innerHTML= tet.value;
+       tet_li.appendChild(Li);
+
+  	}
+
+       </script>
+    </div>
+
+</body>
+
