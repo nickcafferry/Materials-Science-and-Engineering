@@ -1,25 +1,65 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
 <body>
-    <div id="txt">
-    <textarea  id="text" value="" cols="80" rows="10"></textarea><br>
-       <button type="button" id="btn">Comments</button>
-       <div id="lis">
-         <ol id="text_li">
-         </ol>
-       </div>
-	<script type="text/javascript">
-             var tet= document.getElementById("text");
-             var butt= document.getElementById("btn");
-             var tet_li= document.getElementById("text_li");
+<table width="800" border="1" align="center" cellspacing="0" cellpadding="0" height="600"
+       bordercolor="#FFFFFF"id="comment">
+    <tr>
+        <td width="18%" height="27" align="center">Commentator</td>
+        <td width="82%" align="center">Comments</td>
+    </tr>
 
-       butt.onclick=function msg(){
-       var Li= document.createElement("li");
-       Li.innerHTML= tet.value;
-       tet_li.appendChild(Li);
+    <tfoot>
+    <tr>
+     <td style="padding-left: 30px" colspan="2" align="center"><form name="form1" method="post" action="">
+    Commentator：&nbsp;&nbsp;&nbsp;&nbsp;<br><input name="person" type="text" id="person" size="40"><br>
+    Comments：<br><textarea name="content" id="content" cols="60" rows="6"></textarea>
+     </form><br>
 
-  	}
+        <input name="Button" type="button" value="Submit" onclick="add_()">
+<input name="Reset" type="reset" value="Reset">
+<input name="Button" type="button" value="Delete the first comment" onclick="delete_first()">
+            <input name="Button" type="button" value="Delete the last comment" onclick="delete_last()">
+     </td> </tr></tfoot>
 
-       </script>
-    </div>
 
+
+</table>
+<script>
+    function add_() {
+        var person=document.createTextNode(form1.person.value);
+        var content=document.createTextNode(form1.content.value);
+        var td_person=document.createElement("td");
+        var td_content=document.createElement("td");
+        var tr=document.createElement("tr");
+        var tbody=document.createElement("tbody");
+        td_person.appendChild(person);
+        td_content.appendChild(content);
+        tr.appendChild(td_person);
+        tr.appendChild(td_content);
+        tbody.appendChild(tr);
+        var tComment = document.getElementById("comment");
+        tComment.appendChild(tbody);
+        form1.person.value="";
+        form1.content.value="";
+    }
+
+    function delete_first() {
+        var tComment=document.getElementById("comment");
+        if(tComment.rows.length>1){
+            tComment.deleteRow(1);
+        }
+    }
+
+    function delete_last() {
+        var tComment=document.getElementById("comment");
+        if(tComment.rows.length>1){
+            tComment.deleteRow(tComment.rows.length-1);
+        }
+    }
+</script>
 </body>
-
+</html>
