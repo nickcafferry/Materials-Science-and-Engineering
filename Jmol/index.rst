@@ -1,7 +1,7 @@
 Fundamentals of Materials Science and Engineering: An Intergrated Approach
 ==========================================================================
 
-|Deployment Status|  |Apache License|  |Documentation Status|  |Python Online|  |Python version|  |--|  |today| 
+|Deployment Status|  |Apache License|  |Documentation Status| |--|  |today| 
 
 -------------------
 
@@ -11,10 +11,7 @@ Fundamentals of Materials Science and Engineering: An Intergrated Approach
    :target: https://playground-jmol.readthedocs.io/en/latest/?badge=latest
 .. |Apache License| image:: https://img.shields.io/github/license/nickcafferry/Python-videos-for-beginners
    :target: https://github.com/nickcafferry/Python-videos-for-beginners/blob/master/LICENSE
-.. |Python version| image:: https://img.shields.io/badge/python-3.7,%203.8-brightgreen.svg
-   :target: https://www.python.org/
-.. |Python Online| image:: https://img.shields.io/badge/platform-python%20online-blue
-   :target: https://python-videos-for-beginners.readthedocs.io/en/latest/pyonlineindex.html
+
 
 .. |--| unicode:: U+02014 .. em dash
    :trim:
